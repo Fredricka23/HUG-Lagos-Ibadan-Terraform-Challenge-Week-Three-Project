@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HUG Lagos/Ibadan Terraform Challenge - Week Three
 
 ## Project: Deploy a Two-Tier Application on AWS Using Terraform
