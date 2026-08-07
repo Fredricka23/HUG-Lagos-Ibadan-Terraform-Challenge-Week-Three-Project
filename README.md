@@ -56,7 +56,7 @@ Database Security Group:
 - No public database access
 
 # Terraform Project Structure
-=======
+
 # HUG-Lagos-Ibadan-Terraform-Challenge-Week-Three-Project
 Deploy a Two-Tier Application on a Cloud Platform.
 >>>>>>> 1e9c3ca7718d6593b098253f0a3174b1e91145c2
